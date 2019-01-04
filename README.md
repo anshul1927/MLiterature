@@ -9,3 +9,5 @@
 * [Nurture.ai](http://nurture.ai)<br/>
 * [Papers with Code](https://paperswithcode.com)<br/>
 * [Zaur Fataliyev's pwc](https://github.com/zziz/pwc)<br/>
+
+|         |Title  | Area  | Summary  | Code   |
