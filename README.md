@@ -9,6 +9,7 @@
 * [Nurture.ai](http://nurture.ai)<br/>
 * [Papers with Code](https://paperswithcode.com)<br/>
 * [Zaur Fataliyev's pwc](https://github.com/zziz/pwc)<br/>
+* [Twitter Bot of Miles Brudage](https://twitter.com/BrundageBot)</br>
 
 |         |Title  | Area  | Summary  | Code   |
 |---      |---    |---    |---       |---     |
