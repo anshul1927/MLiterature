@@ -13,5 +13,5 @@
 
 |         |Title  | Area  | Summary  | Code   |
 |---      |---    |---    |---       |---     |
-|1.   |[Deep Learning on Graphs : A Survey](https://arxiv.org/pdf/1812.04202.pdf)    |    |    |   |
+|1.   |[Deep Learning on Graphs : A Survey](https://arxiv.org/pdf/1812.04202.pdf)    |Machine Learning, Social and Information Networks   |    |   |
 |2.   |[Scalable agent alignment via reward modeling: A Research Direction](https://arxiv.org/pdf/1811.07871.pdf)    |    |    |   |
