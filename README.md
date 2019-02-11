@@ -19,8 +19,8 @@
 |4   |[Bag of Tricks for Image Classification with Convolutional Neural Networks](https://arxiv.org/pdf/1812.01187.pdf) |Computer Vision and Pattern Recognition |
 |5   |[Scalable agent alignment via reward modeling: a research direction](https://arxiv.org/pdf/1811.07871) | Reinforcement learning|
 |6   |[Building a Winning Self-Driving Car in Six Months](https://arxiv.org/pdf/1811.01273.pdf)| Robotics |
-|7   |[Federated Reinforcement Learning](https://arxiv.org/pdf/1901.08277.pdf)|
-|8   |[Towards Federated Learning at Scale](https://arxiv.org/pdf/1902.01046.pdf)|
-|9   |[Federated Learning for Mobile Keyboard Prediction](https://arxiv.org/pdf/1811.03604.pdf)|
-|10|[]()|
+|7   |[Federated Reinforcement Learning](https://arxiv.org/pdf/1901.08277.pdf)||
+|8   |[Towards Federated Learning at Scale](https://arxiv.org/pdf/1902.01046.pdf)||
+|9   |[Federated Learning for Mobile Keyboard Prediction](https://arxiv.org/pdf/1811.03604.pdf)||
+|10|[Fixup Initialization: Residual Learning Without Normalization](https://arxiv.org/pdf/1901.09321.pdf)||
 |11|[]()|
