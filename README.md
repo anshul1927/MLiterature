@@ -26,4 +26,4 @@
 |11|[Parameter-Efficient Transfer Learning for NLP](https://arxiv.org/pdf/1902.00751.pdf)|
 |12|[Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)|
 |13|[EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Task](https://arxiv.org/pdf/1901.11196.pdf)|
-|14|[Attentive Neural Processes]()|
+|14|[Attentive Neural Processes](https://arxiv.org/pdf/1901.05761.pdf)|
