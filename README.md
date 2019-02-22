@@ -17,12 +17,12 @@
 |2   |[Graph Neural Networks: A Review of Methods and Applications](https://arxiv.org/abs/1812.08434)    |	  
 |3   |[A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/abs/1901.00596)    |	  
 |4   |[Bag of Tricks for Image Classification with Convolutional Neural Networks](https://arxiv.org/pdf/1812.01187.pdf) |
-|5   |[Scalable agent alignment via reward modeling: a research direction](https://arxiv.org/pdf/1811.07871) | Reinforcement learning|
+|5   |[Scalable agent alignment via reward modeling: a research direction](https://arxiv.org/pdf/1811.07871) | 
 |6   |[Building a Winning Self-Driving Car in Six Months](https://arxiv.org/pdf/1811.01273.pdf)|
-|7   |[Federated Reinforcement Learning](https://arxiv.org/pdf/1901.08277.pdf)||
-|8   |[Towards Federated Learning at Scale](https://arxiv.org/pdf/1902.01046.pdf)||
-|9   |[Federated Learning for Mobile Keyboard Prediction](https://arxiv.org/pdf/1811.03604.pdf)||
-|10|[Fixup Initialization: Residual Learning Without Normalization](https://arxiv.org/pdf/1901.09321.pdf)||
-|11|[Parameter-Efficient Transfer Learning for NLP](https://arxiv.org/pdf/1902.00751.pdf)||
-|12|[Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)||
-|13|[EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Task](https://arxiv.org/pdf/1901.11196.pdf)||
+|7   |[Federated Reinforcement Learning](https://arxiv.org/pdf/1901.08277.pdf)|
+|8   |[Towards Federated Learning at Scale](https://arxiv.org/pdf/1902.01046.pdf)|
+|9   |[Federated Learning for Mobile Keyboard Prediction](https://arxiv.org/pdf/1811.03604.pdf)|
+|10|[Fixup Initialization: Residual Learning Without Normalization](https://arxiv.org/pdf/1901.09321.pdf)|
+|11|[Parameter-Efficient Transfer Learning for NLP](https://arxiv.org/pdf/1902.00751.pdf)|
+|12|[Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)|
+|13|[EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Task](https://arxiv.org/pdf/1901.11196.pdf)|
