@@ -16,7 +16,7 @@
 |1   |[Deep Learning on Graphs : A Survey](https://arxiv.org/abs/1812.04202)    |  
 |2   |[Graph Neural Networks: A Review of Methods and Applications](https://arxiv.org/abs/1812.08434)    |	  
 |3   |[A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/abs/1901.00596)    |	  
-|4   |[Bag of Tricks for Image Classification with Convolutional Neural Networks](https://arxiv.org/pdf/1812.01187.pdf) |Computer Vision and Pattern Recognition |
+|4   |[Bag of Tricks for Image Classification with Convolutional Neural Networks](https://arxiv.org/pdf/1812.01187.pdf) |
 |5   |[Scalable agent alignment via reward modeling: a research direction](https://arxiv.org/pdf/1811.07871) | Reinforcement learning|
 |6   |[Building a Winning Self-Driving Car in Six Months](https://arxiv.org/pdf/1811.01273.pdf)|
 |7   |[Federated Reinforcement Learning](https://arxiv.org/pdf/1901.08277.pdf)||
