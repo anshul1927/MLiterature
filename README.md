@@ -13,7 +13,7 @@
 
 |         |Title  | Area  | 
 |---      |---    |---    |
-|1   |[Deep Learning on Graphs : A Survey](https://arxiv.org/abs/1812.04202)    |Machine Learning, Social and Information Networks   |    
+|1   |[Deep Learning on Graphs : A Survey](https://arxiv.org/abs/1812.04202)    |  
 |2   |[Graph Neural Networks: A Review of Methods and Applications](https://arxiv.org/abs/1812.08434)    |	  
 |3   |[A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/abs/1901.00596)    |	  
 |4   |[Bag of Tricks for Image Classification with Convolutional Neural Networks](https://arxiv.org/pdf/1812.01187.pdf) |Computer Vision and Pattern Recognition |
