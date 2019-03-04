@@ -27,3 +27,4 @@
 |12|[Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)|
 |13|[EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Task](https://arxiv.org/pdf/1901.11196.pdf)|
 |14|[Attentive Neural Processes](https://arxiv.org/pdf/1901.05761.pdf)|
+|15|[TensorLy: Tensor Learning in Python](https://arxiv.org/pdf/1610.09555.pdf)|
