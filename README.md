@@ -13,7 +13,7 @@
 
 |         |Title  |
 |---      |---    |
-|0|[]()|
+|0|[](https://paperswithcode.com/paper/bert-pre-training-of-deep-bidirectional2)|
 |1   |[Deep Learning on Graphs : A Survey](https://arxiv.org/abs/1812.04202)    |  
 |2   |[Graph Neural Networks: A Review of Methods and Applications](https://arxiv.org/abs/1812.08434)    |	  
 |3   |[A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/abs/1901.00596)    |	  
