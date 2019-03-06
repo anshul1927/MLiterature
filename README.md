@@ -13,6 +13,7 @@
 
 |         |Title  |
 |---      |---    |
+||||
 |1   |[Deep Learning on Graphs : A Survey](https://arxiv.org/abs/1812.04202)    |  
 |2   |[Graph Neural Networks: A Review of Methods and Applications](https://arxiv.org/abs/1812.08434)    |	  
 |3   |[A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/abs/1901.00596)    |	  
@@ -28,3 +29,4 @@
 |13|[EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Task](https://arxiv.org/pdf/1901.11196.pdf)|
 |14|[Attentive Neural Processes](https://arxiv.org/pdf/1901.05761.pdf)|
 |15|[TensorLy: Tensor Learning in Python](https://arxiv.org/pdf/1610.09555.pdf)|
+|||
