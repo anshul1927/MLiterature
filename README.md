@@ -1,6 +1,6 @@
 # **Getting-A-Taste-of-ML-Research-Papers-💯**
 
-![alt text](https://juststickers.in/wp-content/uploads/2017/04/machine-learning.png)
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzoY5RWPO4HIgxfyVnb4ZEUONYkBD7g6JOhxmnfjkGlKoAeZYSEQ)
 
 **Repo to track my progress of my New Resolution of reading, understanding and tinkering with 100 Machine Learning Research Papers.**
 
