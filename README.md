@@ -1,4 +1,4 @@
-# **Getting a taste of Research Papers-💯**
+# **Getting a taste of Research Papers💯**
 
 ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzoY5RWPO4HIgxfyVnb4ZEUONYkBD7g6JOhxmnfjkGlKoAeZYSEQ)
 
