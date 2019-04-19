@@ -30,5 +30,5 @@
 |14|[Attentive Neural Processes](https://arxiv.org/pdf/1901.05761.pdf)|
 |15|[TensorLy: Tensor Learning in Python](https://arxiv.org/pdf/1610.09555.pdf)|
 |16|[A Style-Based Generator Architecture for Generative Adversarial Networks ](https://arxiv.org/pdf/1812.04948.pdf)|
-|17|[Image Style Transfer Using Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)|
+|17|[Image Style Transfer Using Convolutional Neural Networks]
 |18|[Panoptic Feature Pyramid Networks](https://arxiv.org/pdf/1901.02446.pdf)|
