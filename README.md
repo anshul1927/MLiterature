@@ -78,7 +78,8 @@
 |1.|[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://paperswithcode.com/paper/bert-pre-training-of-deep-bidirectional2)|
 |2.|[Parameter-Efficient Transfer Learning for NLP](https://arxiv.org/pdf/1902.00751.pdf)|
 |3.|[Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)|
-
+|4.|[Visualizing Attention in Transformer-Based
+Language Representation Models](https://arxiv.org/pdf/1904.02679.pdf)|
 
 ### Reinforcement Learning
 ||Title|Tags|
