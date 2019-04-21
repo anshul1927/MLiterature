@@ -84,3 +84,4 @@
 ||Title|Tags|
 |---|---|---|
 |1.   |[Scalable agent alignment via reward modeling: a research direction](https://arxiv.org/pdf/1811.07871) | 
+|2.|[Reinforcement Learning with Attention that Works: A Self-Supervised Approach](https://arxiv.org/pdf/1904.03367.pdf)|
