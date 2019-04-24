@@ -31,7 +31,7 @@
 ||Title|Tags|
 |---|---|---|
 |1.|[Panoptic Feature Pyramid Networks](https://arxiv.org/pdf/1901.02446.pdf)| 
-
+|2.|[Attention Augmented Convolutional Networks](https://arxiv.org/pdf/1904.09925.pdf)
 
 ### Convolutional Neural Networks
 ||Title |Tags|
@@ -71,6 +71,7 @@
 |1.|[EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Task](https://arxiv.org/pdf/1901.11196.pdf)|
 |2.|[Attentive Neural Processes](https://arxiv.org/pdf/1901.05761.pdf)|
 |3.|[TensorLy: Tensor Learning in Python](https://arxiv.org/pdf/1610.09555.pdf)|
+|4.|[Semantic Image Synthesis with Spatially-Adaptive Normalization](https://arxiv.org/pdf/1903.07291.pdf)
 
 ### Natural Language Processing
 ||Title  |Tags|
@@ -79,6 +80,7 @@
 |2.|[Parameter-Efficient Transfer Learning for NLP](https://arxiv.org/pdf/1902.00751.pdf)|
 |3.|[Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)|
 |4.|[Visualizing Attention in Transformer-Based Language Representation Models](https://arxiv.org/pdf/1904.02679.pdf)|
+|5.|[Language Models with Transformers](https://arxiv.org/pdf/1904.09408.pdf)
 
 ### Reinforcement Learning
 ||Title|Tags|
