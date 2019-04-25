@@ -32,6 +32,7 @@
 |---|---|---|
 |1.|[Panoptic Feature Pyramid Networks](https://arxiv.org/pdf/1901.02446.pdf)| 
 |2.|[Attention Augmented Convolutional Networks](https://arxiv.org/pdf/1904.09925.pdf)
+|3.|[Rethinking Atrous Convolution for Semantic Image Segmentation](https://arxiv.org/pdf/1706.05587.pdf)
 
 ### Convolutional Neural Networks
 ||Title |Tags|
@@ -81,6 +82,7 @@
 |3.|[Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)|
 |4.|[Visualizing Attention in Transformer-Based Language Representation Models](https://arxiv.org/pdf/1904.02679.pdf)|
 |5.|[Language Models with Transformers](https://arxiv.org/pdf/1904.09408.pdf)
+|6.|[Generating Long Sequences with Sparse Transformers](https://d4mucfpksywv.cloudfront.net/Sparse_Transformer/sparse_transformers.pdf)
 
 ### Reinforcement Learning
 ||Title|Tags|
