@@ -66,6 +66,7 @@
 |---|---|---|
 |1.|[Fixup Initialization: Residual Learning Without Normalization](https://arxiv.org/pdf/1901.09321.pdf)|
 |2.|[A disciplined approach to neural network hyper-parameters: Part 1 -- learning rate, batch size, momentum, and weight decay](https://arxiv.org/pdf/1803.09820.pdf)
+|3.|[L4: Practical loss-based stepsize adaptation for deep learning](https://arxiv.org/pdf/1802.05074.pdf)|
 
 ### Miscellaneous
 ||Title|Tags|
