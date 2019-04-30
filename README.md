@@ -33,6 +33,7 @@
 |1.|[Panoptic Feature Pyramid Networks](https://arxiv.org/pdf/1901.02446.pdf)| 
 |2.|[Attention Augmented Convolutional Networks](https://arxiv.org/pdf/1904.09925.pdf)
 |3.|[Rethinking Atrous Convolution for Semantic Image Segmentation](https://arxiv.org/pdf/1706.05587.pdf)
+|4.|[Unsupervised Data Augmentation](https://arxiv.org/pdf/1904.12848.pdf)
 
 ### Convolutional Neural Networks
 ||Title |Tags|
@@ -40,6 +41,7 @@
 |1.|[Bag of Tricks for Image Classification with Convolutional Neural Networks](https://arxiv.org/pdf/1812.01187.pdf)| 
 |2.|[Drop an Octave: Reducing Spatial Redundancy in Convolutional Neural Networks with Octave Convolution](https://arxiv.org/pdf/1904.05049.pdf)|
 |3.|[Local Relation Networks for Image Recognition](https://arxiv.org/pdf/1904.11491.pdf)|
+|4.|[Invertible Residual Networks](https://arxiv.org/pdf/1811.00995.pdf)
 
 ### Federated Learning
 ||Title |Tags|
