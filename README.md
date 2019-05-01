@@ -42,6 +42,7 @@
 |2.|[Drop an Octave: Reducing Spatial Redundancy in Convolutional Neural Networks with Octave Convolution](https://arxiv.org/pdf/1904.05049.pdf)|
 |3.|[Local Relation Networks for Image Recognition](https://arxiv.org/pdf/1904.11491.pdf)|
 |4.|[Invertible Residual Networks](https://arxiv.org/pdf/1811.00995.pdf)
+|5.|[Style Transfer by Relaxed Optimal Transport and Self-Similarity](https://arxiv.org/pdf/1904.12785.pdf)
 
 ### Federated Learning
 ||Title |Tags|
@@ -88,6 +89,7 @@
 |4.|[Visualizing Attention in Transformer-Based Language Representation Models](https://arxiv.org/pdf/1904.02679.pdf)|
 |5.|[Language Models with Transformers](https://arxiv.org/pdf/1904.09408.pdf)
 |6.|[Generating Long Sequences with Sparse Transformers](https://d4mucfpksywv.cloudfront.net/Sparse_Transformer/sparse_transformers.pdf)
+|7.|[Neural Networks for Modeling Source Code Edits](https://arxiv.org/pdf/1904.02818.pdf)
 
 ### Reinforcement Learning
 ||Title|Tags|
