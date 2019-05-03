@@ -97,3 +97,4 @@
 |1.   |[Scalable agent alignment via reward modeling: a research direction](https://arxiv.org/pdf/1811.07871) | 
 |2.|[Reinforcement Learning with Attention that Works: A Self-Supervised Approach](https://arxiv.org/pdf/1904.03367.pdf)|
 |3.|[Challenges of Real-World Reinforcement Learning](https://arxiv.org/pdf/1904.12901.pdf)|
+|4.|[An Introduction to Deep Reinforcement Learning](https://arxiv.org/pdf/1811.12560.pdf)|
