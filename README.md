@@ -56,13 +56,13 @@
 |---|---|---|
 |1.|[A Style-Based Generator Architecture for Generative Adversarial Networks ](https://arxiv.org/pdf/1812.04948.pdf)|
 
-### Geometric Deep Learning
+### Deep Learning on Graphs
 ||Title|Tags|
 |---|---|---|
-|1   |[Deep Learning on Graphs : A Survey](https://arxiv.org/abs/1812.04202)    |  
-|2   |[Graph Neural Networks: A Review of Methods and Applications](https://arxiv.org/abs/1812.08434)    |	  
-|3   |[A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/abs/1901.00596)    |	 
-
+|1.|[Deep Learning on Graphs : A Survey](https://arxiv.org/abs/1812.04202)    |  
+|2.|[Graph Neural Networks: A Review of Methods and Applications](https://arxiv.org/abs/1812.08434)    |	  
+|3.|[A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/abs/1901.00596)    |	 
+|4.|[Graph Matching Networks for Learning the Similarity of Graph Structured Objects](https://arxiv.org/pdf/1904.12787.pdf)|
 
 ### Initialization And Optimization
 ||Title|Tags|
@@ -70,6 +70,7 @@
 |1.|[Fixup Initialization: Residual Learning Without Normalization](https://arxiv.org/pdf/1901.09321.pdf)|
 |2.|[A disciplined approach to neural network hyper-parameters: Part 1 -- learning rate, batch size, momentum, and weight decay](https://arxiv.org/pdf/1803.09820.pdf)
 |3.|[L4: Practical loss-based stepsize adaptation for deep learning](https://arxiv.org/pdf/1802.05074.pdf)|
+|4.|[A Mean Field Theory of Batch Normalization](https://arxiv.org/pdf/1902.08129.pdf)
 
 ### Miscellaneous
 ||Title|Tags|
