@@ -4,15 +4,6 @@
 
 **Repo to track my progress on New Resolution of reading, understanding and tinkering with Machine Learning Research Papers.**
 
->Sources:<br/>
-* [ArXiv.org](https://arxiv.org)<br/>
-* [Nurture.ai](http://nurture.ai)<br/>
-* [Papers with Code](https://paperswithcode.com)<br/>
-* [Zaur Fataliyev's pwc](https://github.com/zziz/pwc)<br/>
-* [Twitter Bot of Miles Brudage](https://twitter.com/BrundageBot)</br>
-
-
-
 
 |Category  |
 |---       |
