@@ -80,6 +80,7 @@
 |3.|[TensorLy: Tensor Learning in Python](https://arxiv.org/pdf/1610.09555.pdf)|
 |4.|[Semantic Image Synthesis with Spatially-Adaptive Normalization](https://arxiv.org/pdf/1903.07291.pdf)
 |5.|[Meta-Sim: Learning to Generate Synthetic Datasets](https://arxiv.org/pdf/1904.11621.pdf)|
+|6.|[Low-Memory Neural Network Training: A Technical Report](https://arxiv.org/pdf/1904.10631.pdf)|
 
 ### Natural Language Processing
 ||Title  |Tags|
