@@ -35,6 +35,7 @@
 |3.|[Local Relation Networks for Image Recognition](https://arxiv.org/pdf/1904.11491.pdf)|
 |4.|[Invertible Residual Networks](https://arxiv.org/pdf/1811.00995.pdf)
 |5.|[Style Transfer by Relaxed Optimal Transport and Self-Similarity](https://arxiv.org/pdf/1904.12785.pdf)
+|6.|[Kervolutional Neural Networks](https://arxiv.org/pdf/1904.03955.pdf)|
 
 ### Federated Learning
 ||Title |Tags|
