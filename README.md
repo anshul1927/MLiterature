@@ -25,6 +25,7 @@
 |2.|[Attention Augmented Convolutional Networks](https://arxiv.org/pdf/1904.09925.pdf)
 |3.|[Rethinking Atrous Convolution for Semantic Image Segmentation](https://arxiv.org/pdf/1706.05587.pdf)
 |4.|[Unsupervised Data Augmentation](https://arxiv.org/pdf/1904.12848.pdf)
+|5.|[Fast AutoAugment](https://arxiv.org/pdf/1905.00397.pdf)|
 
 ### Convolutional Neural Networks
 ||Title |Tags|
@@ -46,6 +47,7 @@
 ||Title|Tags|
 |---|---|---|
 |1.|[A Style-Based Generator Architecture for Generative Adversarial Networks ](https://arxiv.org/pdf/1812.04948.pdf)|
+|2.|[Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/pdf/1511.06434.pdf)
 
 ### Deep Learning on Graphs
 ||Title|Tags|
@@ -72,6 +74,8 @@
 |4.|[Semantic Image Synthesis with Spatially-Adaptive Normalization](https://arxiv.org/pdf/1903.07291.pdf)
 |5.|[Meta-Sim: Learning to Generate Synthetic Datasets](https://arxiv.org/pdf/1904.11621.pdf)|
 |6.|[Low-Memory Neural Network Training: A Technical Report](https://arxiv.org/pdf/1904.10631.pdf)|
+|7.|[Using Deep Learning to Annotate the Protein Universe](https://www.biorxiv.org/content/biorxiv/early/2019/05/04/626507.full.pdf)|
+|8.|[Initialized Equilibrium Propagation for Backprop-Free Training](https://openreview.net/pdf?id=B1GMDsR5tm)
 
 ### Natural Language Processing
 ||Title  |Tags|
