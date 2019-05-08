@@ -52,6 +52,8 @@
 |1.|[A Style-Based Generator Architecture for Generative Adversarial Networks ](https://arxiv.org/pdf/1812.04948.pdf)|
 |2.|[Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/pdf/1511.06434.pdf)
 |3.|[Controllable Artistic Text Style Transfer via Shape-Matching GAN](https://arxiv.org/pdf/1905.01354.pdf)|
+|4.|[SinGAN: Learning a Generative Model from a Single Natural Image](https://arxiv.org/pdf/1905.01164.pdf)|
+|5.|[Sketchforme: Composing Sketched Scenes from Text Descriptions for Interactive Applications](https://arxiv.org/pdf/1904.04399.pdf)|
 
 ### Deep Learning on Graphs
 ||Title|Tags|
@@ -68,6 +70,8 @@
 |2.|[A disciplined approach to neural network hyper-parameters: Part 1 -- learning rate, batch size, momentum, and weight decay](https://arxiv.org/pdf/1803.09820.pdf)
 |3.|[L4: Practical loss-based stepsize adaptation for deep learning](https://arxiv.org/pdf/1802.05074.pdf)|
 |4.|[A Mean Field Theory of Batch Normalization](https://arxiv.org/pdf/1902.08129.pdf)
+|5.|[Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask](https://arxiv.org/pdf/1905.01067.pdf)|
+|6.|[The Lottery Ticket Hypothesis at Scale](https://arxiv.org/pdf/1903.01611.pdf)|
 
 ### Miscellaneous
 ||Title|Tags|
