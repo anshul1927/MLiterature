@@ -26,6 +26,7 @@
 |3.|[Rethinking Atrous Convolution for Semantic Image Segmentation](https://arxiv.org/pdf/1706.05587.pdf)
 |4.|[Unsupervised Data Augmentation](https://arxiv.org/pdf/1904.12848.pdf)
 |5.|[Fast AutoAugment](https://arxiv.org/pdf/1905.00397.pdf)|
+|6.|[DeViSE: A Deep Visual-Semantic Embedding Model](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41473.pdf)|
 
 ### Convolutional Neural Networks
 ||Title |Tags|
@@ -43,12 +44,14 @@
 |1.|[Towards Federated Learning at Scale](https://arxiv.org/pdf/1902.01046.pdf)||
 |2.|[Federated Learning for Mobile Keyboard Prediction](https://arxiv.org/pdf/1811.03604.pdf)|
 |3.|[Federated Reinforcement Learning](https://arxiv.org/pdf/1901.08277.pdf)|
+|4.|[Federated Learning: Strategies for Improving Communication Efficiency](https://arxiv.org/pdf/1610.05492.pdf)|
 
 ### Generative Models
 ||Title|Tags|
 |---|---|---|
 |1.|[A Style-Based Generator Architecture for Generative Adversarial Networks ](https://arxiv.org/pdf/1812.04948.pdf)|
 |2.|[Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/pdf/1511.06434.pdf)
+|3.|[Controllable Artistic Text Style Transfer via Shape-Matching GAN](https://arxiv.org/pdf/1905.01354.pdf)|
 
 ### Deep Learning on Graphs
 ||Title|Tags|
