@@ -45,6 +45,7 @@
 |2.|[Federated Learning for Mobile Keyboard Prediction](https://arxiv.org/pdf/1811.03604.pdf)|
 |3.|[Federated Reinforcement Learning](https://arxiv.org/pdf/1901.08277.pdf)|
 |4.|[Federated Learning: Strategies for Improving Communication Efficiency](https://arxiv.org/pdf/1610.05492.pdf)|
+|5.|[Gaussian Differential Privacy](https://arxiv.org/pdf/1905.02383.pdf)|
 
 ### Generative Models
 ||Title|Tags|
@@ -70,8 +71,10 @@
 |2.|[A disciplined approach to neural network hyper-parameters: Part 1 -- learning rate, batch size, momentum, and weight decay](https://arxiv.org/pdf/1803.09820.pdf)
 |3.|[L4: Practical loss-based stepsize adaptation for deep learning](https://arxiv.org/pdf/1802.05074.pdf)|
 |4.|[A Mean Field Theory of Batch Normalization](https://arxiv.org/pdf/1902.08129.pdf)
-|5.|[Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask](https://arxiv.org/pdf/1905.01067.pdf)|
-|6.|[The Lottery Ticket Hypothesis at Scale](https://arxiv.org/pdf/1903.01611.pdf)|
+|5.|[The Lottery Ticket Hypothesis:Finding Sparse,Trainable Neural Networks](https://arxiv.org/pdf/1803.03635.pdf)|
+|6.|[Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask](https://arxiv.org/pdf/1905.01067.pdf)|
+|7.|[The Lottery Ticket Hypothesis at Scale](https://arxiv.org/pdf/1903.01611.pdf)|
+|8.|[REGAL: Transfer Learning For Fast Optimization of Computation Graphs](https://arxiv.org/pdf/1905.02494.pdf)
 
 ### Miscellaneous
 ||Title|Tags|
@@ -84,6 +87,7 @@
 |6.|[Low-Memory Neural Network Training: A Technical Report](https://arxiv.org/pdf/1904.10631.pdf)|
 |7.|[Using Deep Learning to Annotate the Protein Universe](https://www.biorxiv.org/content/biorxiv/early/2019/05/04/626507.full.pdf)|
 |8.|[Initialized Equilibrium Propagation for Backprop-Free Training](https://openreview.net/pdf?id=B1GMDsR5tm)
+|9.|[MixMatch: A Holistic Approach to Semi-Supervised Learning](https://arxiv.org/pdf/1905.02249.pdf)|
 
 ### Natural Language Processing
 ||Title  |Tags|
@@ -95,6 +99,7 @@
 |5.|[Language Models with Transformers](https://arxiv.org/pdf/1904.09408.pdf)
 |6.|[Generating Long Sequences with Sparse Transformers](https://d4mucfpksywv.cloudfront.net/Sparse_Transformer/sparse_transformers.pdf)
 |7.|[Neural Networks for Modeling Source Code Edits](https://arxiv.org/pdf/1904.02818.pdf)
+|8.|[Sample Efficient Adaptive Text-to-Speech](https://openreview.net/pdf?id=rkzjUoAcFX)
 
 ### Reinforcement Learning
 ||Title|Tags|
