@@ -61,6 +61,7 @@
 |4.|[SinGAN: Learning a Generative Model from a Single Natural Image](https://arxiv.org/pdf/1905.01164.pdf)|
 |5.|[Sketchforme: Composing Sketched Scenes from Text Descriptions for Interactive Applications](https://arxiv.org/pdf/1904.04399.pdf)|
 |6.|[Few-Shot Unsupervised Image-to-Image Translation](https://arxiv.org/pdf/1905.01723.pdf)
+|7.|[Semantic Image Synthesis with Spatially-Adaptive Normalization](https://arxiv.org/pdf/1903.07291.pdf)
 
 ### Deep Learning on Graphs
 ||Title|Tags|
@@ -88,13 +89,12 @@
 |1.|[EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Task](https://arxiv.org/pdf/1901.11196.pdf)|
 |2.|[Attentive Neural Processes](https://arxiv.org/pdf/1901.05761.pdf)|
 |3.|[TensorLy: Tensor Learning in Python](https://arxiv.org/pdf/1610.09555.pdf)|
-|4.|[Semantic Image Synthesis with Spatially-Adaptive Normalization](https://arxiv.org/pdf/1903.07291.pdf)
-|5.|[Meta-Sim: Learning to Generate Synthetic Datasets](https://arxiv.org/pdf/1904.11621.pdf)|
-|6.|[Low-Memory Neural Network Training: A Technical Report](https://arxiv.org/pdf/1904.10631.pdf)|
-|7.|[Using Deep Learning to Annotate the Protein Universe](https://www.biorxiv.org/content/biorxiv/early/2019/05/04/626507.full.pdf)|
-|8.|[Initialized Equilibrium Propagation for Backprop-Free Training](https://openreview.net/pdf?id=B1GMDsR5tm)
-|9.|[MixMatch: A Holistic Approach to Semi-Supervised Learning](https://arxiv.org/pdf/1905.02249.pdf)|
-|10.|[Adversarial Examples Are Not Bugs, They Are Features](https://arxiv.org/pdf/1905.02175.pdf)
+|4.|[Meta-Sim: Learning to Generate Synthetic Datasets](https://arxiv.org/pdf/1904.11621.pdf)|
+|5.|[Low-Memory Neural Network Training: A Technical Report](https://arxiv.org/pdf/1904.10631.pdf)|
+|6.|[Using Deep Learning to Annotate the Protein Universe](https://www.biorxiv.org/content/biorxiv/early/2019/05/04/626507.full.pdf)|
+|7.|[Initialized Equilibrium Propagation for Backprop-Free Training](https://openreview.net/pdf?id=B1GMDsR5tm)
+|8.|[MixMatch: A Holistic Approach to Semi-Supervised Learning](https://arxiv.org/pdf/1905.02249.pdf)|
+|9.|[Adversarial Examples Are Not Bugs, They Are Features](https://arxiv.org/pdf/1905.02175.pdf)
 
 ### Natural Language Processing
 ||Title  |Tags|
