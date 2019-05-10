@@ -27,6 +27,8 @@
 |4.|[Unsupervised Data Augmentation](https://arxiv.org/pdf/1904.12848.pdf)
 |5.|[Fast AutoAugment](https://arxiv.org/pdf/1905.00397.pdf)|
 |6.|[DeViSE: A Deep Visual-Semantic Embedding Model](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41473.pdf)|
+|7.|[S4L: Self-Supervised Semi-Supervised Learning](https://arxiv.org/pdf/1905.03670.pdf)|
+|8.|[Processing Megapixel Images with Deep Attention-Sampling Models](https://arxiv.org/pdf/1905.03711.pdf)
 
 ### Convolutional Neural Networks
 ||Title |Tags|
@@ -37,6 +39,8 @@
 |4.|[Invertible Residual Networks](https://arxiv.org/pdf/1811.00995.pdf)
 |5.|[Style Transfer by Relaxed Optimal Transport and Self-Similarity](https://arxiv.org/pdf/1904.12785.pdf)
 |6.|[Kervolutional Neural Networks](https://arxiv.org/pdf/1904.03955.pdf)|
+|7.|[4D Spatio-Temporal ConvNets: Minkowski Convolutional Neural Networks](https://arxiv.org/pdf/1904.08755.pdf)
+|8.|[Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet](https://openreview.net/pdf?id=SkfMWhAqYQ)
 
 ### Federated Learning
 ||Title |Tags|
@@ -88,6 +92,7 @@
 |7.|[Using Deep Learning to Annotate the Protein Universe](https://www.biorxiv.org/content/biorxiv/early/2019/05/04/626507.full.pdf)|
 |8.|[Initialized Equilibrium Propagation for Backprop-Free Training](https://openreview.net/pdf?id=B1GMDsR5tm)
 |9.|[MixMatch: A Holistic Approach to Semi-Supervised Learning](https://arxiv.org/pdf/1905.02249.pdf)|
+|10.|[Adversarial Examples Are Not Bugs, They Are Features](https://arxiv.org/pdf/1905.02175.pdf)
 
 ### Natural Language Processing
 ||Title  |Tags|
