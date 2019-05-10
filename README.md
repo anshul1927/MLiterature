@@ -22,13 +22,11 @@
 ||Title|Tags|
 |---|---|---|
 |1.|[Panoptic Feature Pyramid Networks](https://arxiv.org/pdf/1901.02446.pdf)| 
-|2.|[Attention Augmented Convolutional Networks](https://arxiv.org/pdf/1904.09925.pdf)
-|3.|[Rethinking Atrous Convolution for Semantic Image Segmentation](https://arxiv.org/pdf/1706.05587.pdf)
-|4.|[Unsupervised Data Augmentation](https://arxiv.org/pdf/1904.12848.pdf)
-|5.|[Fast AutoAugment](https://arxiv.org/pdf/1905.00397.pdf)|
-|6.|[DeViSE: A Deep Visual-Semantic Embedding Model](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41473.pdf)|
-|7.|[S4L: Self-Supervised Semi-Supervised Learning](https://arxiv.org/pdf/1905.03670.pdf)|
-|8.|[Processing Megapixel Images with Deep Attention-Sampling Models](https://arxiv.org/pdf/1905.03711.pdf)
+|2.|[Unsupervised Data Augmentation](https://arxiv.org/pdf/1904.12848.pdf)
+|3.|[Fast AutoAugment](https://arxiv.org/pdf/1905.00397.pdf)|
+|4.|[DeViSE: A Deep Visual-Semantic Embedding Model](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41473.pdf)|
+|5.|[S4L: Self-Supervised Semi-Supervised Learning](https://arxiv.org/pdf/1905.03670.pdf)|
+|6.|[Processing Megapixel Images with Deep Attention-Sampling Models](https://arxiv.org/pdf/1905.03711.pdf)
 
 ### Convolutional Neural Networks
 ||Title |Tags|
@@ -41,6 +39,8 @@
 |6.|[4D Spatio-Temporal ConvNets: Minkowski Convolutional Neural Networks](https://arxiv.org/pdf/1904.08755.pdf)
 |7.|[Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet](https://openreview.net/pdf?id=SkfMWhAqYQ)
 |8.|[Making Convolutional Networks Shift-Invariant Again](https://arxiv.org/pdf/1904.11486.pdf)
+|9.|[Attention Augmented Convolutional Networks](https://arxiv.org/pdf/1904.09925.pdf)
+|10.|[Rethinking Atrous Convolution for Semantic Image Segmentation](https://arxiv.org/pdf/1706.05587.pdf)
 
 ### Federated Learning
 ||Title |Tags|
