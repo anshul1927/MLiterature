@@ -37,11 +37,10 @@
 |2.|[Drop an Octave: Reducing Spatial Redundancy in Convolutional Neural Networks with Octave Convolution](https://arxiv.org/pdf/1904.05049.pdf)|
 |3.|[Local Relation Networks for Image Recognition](https://arxiv.org/pdf/1904.11491.pdf)|
 |4.|[Invertible Residual Networks](https://arxiv.org/pdf/1811.00995.pdf)
-|5.|[Style Transfer by Relaxed Optimal Transport and Self-Similarity](https://arxiv.org/pdf/1904.12785.pdf)
-|6.|[Kervolutional Neural Networks](https://arxiv.org/pdf/1904.03955.pdf)|
-|7.|[4D Spatio-Temporal ConvNets: Minkowski Convolutional Neural Networks](https://arxiv.org/pdf/1904.08755.pdf)
-|8.|[Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet](https://openreview.net/pdf?id=SkfMWhAqYQ)
-|9.|[Making Convolutional Networks Shift-Invariant Again](https://arxiv.org/pdf/1904.11486.pdf)
+|5.|[Kervolutional Neural Networks](https://arxiv.org/pdf/1904.03955.pdf)|
+|6.|[4D Spatio-Temporal ConvNets: Minkowski Convolutional Neural Networks](https://arxiv.org/pdf/1904.08755.pdf)
+|7.|[Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet](https://openreview.net/pdf?id=SkfMWhAqYQ)
+|8.|[Making Convolutional Networks Shift-Invariant Again](https://arxiv.org/pdf/1904.11486.pdf)
 
 ### Federated Learning
 ||Title |Tags|
@@ -95,6 +94,7 @@
 |7.|[Initialized Equilibrium Propagation for Backprop-Free Training](https://openreview.net/pdf?id=B1GMDsR5tm)
 |8.|[MixMatch: A Holistic Approach to Semi-Supervised Learning](https://arxiv.org/pdf/1905.02249.pdf)|
 |9.|[Adversarial Examples Are Not Bugs, They Are Features](https://arxiv.org/pdf/1905.02175.pdf)
+|10.|[Style Transfer by Relaxed Optimal Transport and Self-Similarity](https://arxiv.org/pdf/1904.12785.pdf)
 
 ### Natural Language Processing
 ||Title  |Tags|
