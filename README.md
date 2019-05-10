@@ -41,6 +41,7 @@
 |6.|[Kervolutional Neural Networks](https://arxiv.org/pdf/1904.03955.pdf)|
 |7.|[4D Spatio-Temporal ConvNets: Minkowski Convolutional Neural Networks](https://arxiv.org/pdf/1904.08755.pdf)
 |8.|[Approximating CNNs with Bag-of-local-Features models works surprisingly well on ImageNet](https://openreview.net/pdf?id=SkfMWhAqYQ)
+|9.|[Making Convolutional Networks Shift-Invariant Again](https://arxiv.org/pdf/1904.11486.pdf)
 
 ### Federated Learning
 ||Title |Tags|
@@ -59,6 +60,7 @@
 |3.|[Controllable Artistic Text Style Transfer via Shape-Matching GAN](https://arxiv.org/pdf/1905.01354.pdf)|
 |4.|[SinGAN: Learning a Generative Model from a Single Natural Image](https://arxiv.org/pdf/1905.01164.pdf)|
 |5.|[Sketchforme: Composing Sketched Scenes from Text Descriptions for Interactive Applications](https://arxiv.org/pdf/1904.04399.pdf)|
+|6.|[Few-Shot Unsupervised Image-to-Image Translation](https://arxiv.org/pdf/1905.01723.pdf)
 
 ### Deep Learning on Graphs
 ||Title|Tags|
@@ -105,6 +107,7 @@
 |6.|[Generating Long Sequences with Sparse Transformers](https://d4mucfpksywv.cloudfront.net/Sparse_Transformer/sparse_transformers.pdf)
 |7.|[Neural Networks for Modeling Source Code Edits](https://arxiv.org/pdf/1904.02818.pdf)
 |8.|[Sample Efficient Adaptive Text-to-Speech](https://openreview.net/pdf?id=rkzjUoAcFX)
+|9.|[Unified Language Model Pre-training for Natural Language Understanding and Generation](https://arxiv.org/pdf/1905.03197.pdf)
 
 ### Reinforcement Learning
 ||Title|Tags|
