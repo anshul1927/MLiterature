@@ -108,6 +108,7 @@
 |7.|[Neural Networks for Modeling Source Code Edits](https://arxiv.org/pdf/1904.02818.pdf)
 |8.|[Sample Efficient Adaptive Text-to-Speech](https://openreview.net/pdf?id=rkzjUoAcFX)
 |9.|[Unified Language Model Pre-training for Natural Language Understanding and Generation](https://arxiv.org/pdf/1905.03197.pdf)
+|10.|[Controllable Neural Story Plot Generation via Reward Shaping](https://arxiv.org/pdf/1809.10736.pdf)|
 
 ### Reinforcement Learning
 ||Title|Tags|
