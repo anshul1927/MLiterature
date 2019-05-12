@@ -27,6 +27,7 @@
 |4.|[DeViSE: A Deep Visual-Semantic Embedding Model](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41473.pdf)|
 |5.|[S4L: Self-Supervised Semi-Supervised Learning](https://arxiv.org/pdf/1905.03670.pdf)|
 |6.|[Processing Megapixel Images with Deep Attention-Sampling Models](https://arxiv.org/pdf/1905.03711.pdf)
+|7.|[LEDNet: A Lightweight Encoder-Decoder Network for Real-Time Semantic Segmentation](https://arxiv.org/pdf/1905.02423v1.pdf)
 
 ### Convolutional Neural Networks
 ||Title |Tags|
@@ -61,6 +62,7 @@
 |5.|[Sketchforme: Composing Sketched Scenes from Text Descriptions for Interactive Applications](https://arxiv.org/pdf/1904.04399.pdf)|
 |6.|[Few-Shot Unsupervised Image-to-Image Translation](https://arxiv.org/pdf/1905.01723.pdf)
 |7.|[Semantic Image Synthesis with Spatially-Adaptive Normalization](https://arxiv.org/pdf/1903.07291.pdf)
+|8.|[Self-Attention Generative Adversarial Networks](https://arxiv.org/pdf/1805.08318v1.pdf)
 
 ### Deep Learning on Graphs
 ||Title|Tags|
